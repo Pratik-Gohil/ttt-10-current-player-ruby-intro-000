@@ -14,3 +14,4 @@ def current_player board
     return 'X'
   end
 end
+current_player ['X','O','O',' ']
