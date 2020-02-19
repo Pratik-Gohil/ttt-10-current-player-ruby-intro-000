@@ -7,4 +7,4 @@ def turn_count board
   end
   counter
 end
-puts turn_count ['', '', '', '', '', '', '', '', '']
+puts turn_count ['X', ')', '', '', '', '', '', '', '']
