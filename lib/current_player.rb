@@ -14,4 +14,4 @@ def current_player board
     puts 'X'
   end
 end
-current_player ['X',' ','O',' ']
+current_player ['X','O','O',' ']
